@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/card-website-with-html-css-grid-and-flexbox-vfsplYQJD8)
+- Live Site URL: [Add live site URL here](https://aspireve.github.io/cardViewer.github.io/)
 
 ## My process
 
@@ -77,10 +77,10 @@ I would like to continue focusing upon HTML, CSS and JS and also complete more f
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Add your name here](https://aspireve.github.io/cardViewer.github.io/)
 - Frontend Mentor - [@Aspireve](https://www.frontendmentor.io/profile/Aspireve)
 - Twitter - [@meta_human_08](https://twitter.com/meta_human_08)
 
 ## Acknowledgments
 
-I would like to thanks everyone who motivated me to do this, I would like to thank [sun-empire-solutions](https://github.com/sun-empire-solutions), I found this beautiful website while contributing stuff there. I would also like to thank everyone on twitter who motivated me on my journey to a #100daysofcode
+I would like to thanks everyone who motivated me to do this, I would like to thank [sun-empire-solutions](https://github.com/sun-empire-solutions), I found this beautiful website while contributing stuff there. I would also like to thank everyone on twitter who motivated me on my journey to a #100daysofcode.
